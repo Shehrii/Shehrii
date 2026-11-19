@@ -28,6 +28,7 @@ I build mobile apps and small, useful websites. More about my work and how to hi
 - [us-business-days](https://github.com/Shehrii/us-business-days): US federal holidays and business-day maths, no dependencies
 - [cash-book-template](https://github.com/Shehrii/cash-book-template): free cash book template in Excel (PKR) from Khata365
 - [comedogenic-ingredients](https://github.com/Shehrii/comedogenic-ingredients): comedogenic and irritancy grades for 219 cosmetic ingredients (Fulton 1989), from HeySkin
+- [ring-size-chart](https://github.com/Shehrii/ring-size-chart): US, UK and ISO ring sizes in mm and inches (CSV/JSON), from Unit Equals
 
 #### Writing
 
