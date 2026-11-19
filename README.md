@@ -18,6 +18,7 @@ I build mobile apps and small, useful websites. More about my work and how to hi
 | --- | --- |
 | [HeySkin](https://heyskin.app/) | Skin type test and skincare ingredient checker |
 | [Khata365](https://khata365.com/) | Digital khata (udhar ledger) for shops in Pakistan |
+| [Halal Food Check](https://halalfoodcheck.com/) | Barcode scanner that checks food ingredients and E-numbers for halal status |
 | [Appvior](https://appvior.com/) | My app studio: AI Humanizer, AI Receipt Scanner, Bloom voice journal, Peasy calorie counter |
 
 #### Open data and code
