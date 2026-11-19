@@ -25,3 +25,4 @@ I build mobile apps and small, useful websites. More about my work and how to hi
 - [home-project-costs](https://github.com/Shehrii/home-project-costs): installed cost ranges for 35 US home projects (CSV/JSON)
 - [body-temperature-chart](https://github.com/Shehrii/body-temperature-chart): printable °F to °C body temperature chart with the CDC fever line
 - [us-business-days](https://github.com/Shehrii/us-business-days): US federal holidays and business-day maths, no dependencies
+- [cash-book-template](https://github.com/Shehrii/cash-book-template): free cash book template in Excel (PKR) from Khata365
