@@ -25,7 +25,7 @@ I build mobile apps and small, useful websites. More about my work and how to hi
 
 - [home-project-costs](https://github.com/Shehrii/home-project-costs): installed cost ranges for 35 US home projects (CSV/JSON)
 - [body-temperature-chart](https://github.com/Shehrii/body-temperature-chart): printable °F to °C body temperature chart with the CDC fever line
-- [us-business-days](https://github.com/Shehrii/us-business-days): US federal holidays and business-day maths, no dependencies
+- [us-business-days](https://github.com/Shehrii/us-business-days): US federal holidays and business-day maths, no dependencies ([2026 to 2030 holiday table](https://shehrii.github.io/us-business-days/))
 - [cash-book-template](https://github.com/Shehrii/cash-book-template): free cash book template in Excel (PKR) from Khata365
 - [comedogenic-ingredients](https://github.com/Shehrii/comedogenic-ingredients): comedogenic and irritancy grades for 219 cosmetic ingredients (Fulton 1989), from HeySkin
 - [ring-size-chart](https://github.com/Shehrii/ring-size-chart): US, UK and ISO ring sizes in mm and inches (CSV/JSON), from Unit Equals
@@ -34,3 +34,6 @@ I build mobile apps and small, useful websites. More about my work and how to hi
 
 - [Two bugs in every "add business days" snippet](https://dev.to/shehrii/two-bugs-in-every-add-business-days-snippet-us-holidays-in-javascript-2hji) (dev.to)
 - [Parsing cosmetic ingredient labels in JavaScript](https://dev.to/shehrii/parsing-cosmetic-ingredient-labels-in-javascript-and-an-open-comedogenic-dataset-3dnn) (dev.to)
+- [Free dataset: installed cost ranges for 35 US home improvement projects](https://dev.to/shehrii/free-dataset-installed-cost-ranges-for-35-us-home-improvement-projects-csv-json-3el8) (dev.to)
+- [Body temperature in JavaScript: °F/°C conversion, rounding and the fever line](https://dev.to/shehrii/body-temperature-in-javascript-degfdegc-conversion-rounding-and-the-fever-line-1290) (dev.to)
+- [What a Flutter app actually costs to build](https://shahryarahmad.hashnode.dev/what-a-flutter-app-actually-costs-to-build) (Hashnode)
